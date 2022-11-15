@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "346426347781",
+    "project_id": "aryago-9efdc",
+    "storage_bucket": "aryago-9efdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346426347781:android:75d0b5f113bd5e8842e76c",
+        "android_client_info": {
+          "package_name": "com.example.arya_go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346426347781-rcc0ukds9r54e7vsgttkt3la3n8ih578.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpXtHZ3Ct7FJX-J6Su-C-01s7orvuVmSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346426347781-rcc0ukds9r54e7vsgttkt3la3n8ih578.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
